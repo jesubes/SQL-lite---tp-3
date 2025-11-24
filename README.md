@@ -30,5 +30,5 @@ Este proyecto utiliza técnicas avanzadas de SQL (CTEs, Window Functions y OLAP)
 ## 📂 Estructura del Repositorio
 * `analysis.db`: Base de datos SQLite con las tablas importadas.
 * `queries.sql`: Archivo con las 3 sentencias SQL ejecutadas.
-* `WorldCupMatches.csv`: Dataset original. (WorldCupMatches.csv)
+* `WorldCupMatches.csv`: Dataset original. [WorldCupMatches](./WorldCupMatches.csv)
 * `README.md`: Documentación del proyecto.
